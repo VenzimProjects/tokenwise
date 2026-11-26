@@ -2,16 +2,16 @@
 
 **Stop wasting AI allowance. Ship more with fewer agent loops.**
 
-## [🚀 OPEN TOKENWISE — LAUNCH WEB APP](https://venzimprojects-lang.github.io/tokenwise/)
+## [🚀 OPEN TOKENWISE — LAUNCH WEB APP](https://venzimprojects.github.io/tokenwise/)
 
 <p align="center">
-  <a href="https://venzimprojects-lang.github.io/tokenwise/">
+  <a href="https://venzimprojects.github.io/tokenwise/">
     <img src="assets/open-tokenwise.svg" alt="Open TokenWise — launch the free interactive web app" width="780">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://venzimprojects-lang.github.io/tokenwise/"><strong>▶ Launch the web app</strong></a> ·
+  <a href="https://venzimprojects.github.io/tokenwise/"><strong>▶ Launch the web app</strong></a> ·
   <a href="README.ru.md">Русский</a> ·
   <a href="CONTRIBUTING.md">Contribute</a>
 </p>
@@ -20,7 +20,7 @@ TokenWise is a **free, privacy-first, bilingual (EN/RU) interactive encyclopedia
 
 ## Start in 3 steps
 
-1. **[Open TokenWise](https://venzimprojects-lang.github.io/tokenwise/)** and select your question: limits, models, prompts, usage, agent tools, or coding.
+1. **[Open TokenWise](https://venzimprojects.github.io/tokenwise/)** and select your question: limits, models, prompts, usage, agent tools, or coding.
 2. Pick an explanation level: **beginner, everyday user, AI project builder or developer**. Follow your suggested steps. You can switch levels at any time.
 3. Explore **seven concise encyclopedia topics**, look up unfamiliar terms, or adapt and copy one of five ready-to-use prompts. An advanced Work/Codex configurator and optional usage calculator are below.
 
