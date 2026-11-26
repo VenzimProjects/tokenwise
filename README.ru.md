@@ -2,16 +2,16 @@
 
 **Меньше лишних действий — больше полезной работы с ChatGPT, Work и Codex.**
 
-## [🚀 ОТКРЫТЬ TOKENWISE — ЗАПУСТИТЬ ПРИЛОЖЕНИЕ](https://venzimprojects-lang.github.io/tokenwise/)
+## [🚀 ОТКРЫТЬ TOKENWISE — ЗАПУСТИТЬ ПРИЛОЖЕНИЕ](https://venzimprojects.github.io/tokenwise/)
 
 <p align="center">
-  <a href="https://venzimprojects-lang.github.io/tokenwise/">
+  <a href="https://venzimprojects.github.io/tokenwise/">
     <img src="assets/open-tokenwise.svg" alt="Открыть TokenWise — бесплатный интерактивный конфигуратор" width="780">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://venzimprojects-lang.github.io/tokenwise/"><strong>▶ Открыть веб-приложение</strong></a> ·
+  <a href="https://venzimprojects.github.io/tokenwise/"><strong>▶ Открыть веб-приложение</strong></a> ·
   <a href="README.md">English</a> ·
   <a href="CONTRIBUTING.ru.md">Как помочь проекту</a>
 </p>
@@ -20,7 +20,7 @@
 
 ## Как пользоваться — три шага
 
-1. **[Открой TokenWise](https://venzimprojects-lang.github.io/tokenwise/)** и выбери проблему: лимиты, модели, задания, расход, инструменты или программирование.
+1. **[Открой TokenWise](https://venzimprojects.github.io/tokenwise/)** и выбери проблему: лимиты, модели, задания, расход, инструменты или программирование.
 2. Выбери удобное объяснение: **новичок, постоянный пользователь, создатель проектов с ИИ или программист**. Уровень можно поменять в любой момент.
 3. Получи конкретные действия, изучи **семь тем мини-энциклопедии**, загляни в словарь или возьми готовый пример задания. Старый расширенный конфигуратор Work/Codex и калькулятор сохранены ниже.
 
